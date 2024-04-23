@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-4gspbdm*ci-$cofhqgr7gysuj9pq1pev_crcx0gy9cikyec#@_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['eval.thinkingai.in', 'www.eval.thinkingai.in']
 
